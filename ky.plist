@@ -1,0 +1,88 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+<dict>
+
+   <key>items</key>
+
+   <array>
+
+       <dict>
+
+           <key>assets</key>
+
+           <array>
+
+               <dict>
+
+                   <key>kind</key>
+
+                   <string>software-package</string>
+
+                   <key>url</key>                   
+
+                   <string>http://cdn.17o6.cn/kuyudianwan_v8.3.1_signed.ipa</string>
+
+               </dict>
+
+               <dict>
+
+                   <key>kind</key>
+
+                   <string>display-image</string>
+
+                   <key>needs-shine</key>
+
+                   <true/>
+
+                   <key>url</key>                   
+
+                   <string>http://cdn.17o6.cn/icon-57.png</string>
+
+               </dict>
+
+           </array><key>metadata</key>
+
+           <dict>
+
+               <key>bundle-identifier</key>
+
+               <!-- APP对应的bundle -->
+
+               <string>com.cn.nb.kuyudianwan</string>
+
+               <key>bundle-version</key>
+
+               <!-- APP版本号 -->
+
+               <string>8.3.1</string>
+
+               <key>kind</key>
+
+               <string>software</string>
+
+               <key>subtitle</key>
+
+               <!-- APP名称 -->
+
+               <string>酷鱼电玩城</string>
+
+               <key>title</key>
+
+               <!-- APP在下载之前会弹出一个confirm层，让你确认 -->
+
+               <string>酷鱼电玩城</string>
+
+           </dict>
+
+       </dict>
+
+   </array>
+
+</dict>
+
+</plist>
