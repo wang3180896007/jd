@@ -25,7 +25,7 @@
 
                    <key>url</key>                   
 
-                   <string>http://cdn.17o6.cn/kuyudianwan_v8.3.2_signed.ipa</string>
+                   <string>http://cdn.17o6.cn/kuyudianwan_v8.3.3_signed.ipa</string>
 
                </dict>
 
@@ -75,7 +75,7 @@
 
                <!-- APP版本号 -->
 
-               <string>8.3.2</string>
+               <string>8.3.3</string>
 
                <key>kind</key>
 
